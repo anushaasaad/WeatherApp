@@ -8,13 +8,13 @@ body{
 
 }
 .App{
-  background-image: url("C:/weatherapp/src/1.jpg");
+  background-image: url("1.jpg");
   background-size: cover;
   background-position: bottom;
   transition: 0.4 case-out;
 }
 .App.warm{
-  background-image: url("C:/weatherapp/src/2.jpg");
+  background-image: url("2.jpg");
 }
 main{
   min-height:100vh ;

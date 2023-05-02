@@ -16,6 +16,7 @@ function App() {
           setWeather(result);
           setQuery('');
           console.log(result);
+          console.log("Test passed!");
         });
     }
   }
